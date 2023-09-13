@@ -1,6 +1,10 @@
 # Cardiovascular-Disease--visualization
 Tableau visualization of Cardiovascular Disease - Kaggle Dataset
 
+
+Tableau visualization Link:
+- https://public.tableau.com/views/Disha_patel_CVD/CVD_Disha_patel?:language=en-US&:display_count=n&:origin=viz_share_link
+
 <img width="1278" alt="Cardiovascular-Tableau" src="https://github.com/Patel2Disha/Cardiovascular-Disease--visualization/assets/144750198/3aea278d-0519-4a85-bd59-c8711a4efcbc">
 
 
